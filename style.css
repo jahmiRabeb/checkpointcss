@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(202, 172, 206);
+  }
+  table, th, td {
+    border: 1px solid rgb(209, 198, 198);
+  }
+  p {
+    text-align: ;
+    color:indigo;
+    front font-family: text-align: roboto
+     ;
+  }
+  a:link {
+    background-color: rgb(19, 3, 14);
+  }
+  
+  a:visited {
+    background-color: rgb(37, 11, 35);
+  }
+  
+  a:hover {
+    background-color: rgb(60, 63, 60);
+  }
+  
+  a:active {
+    background-color: hotpink;
+  } 
+  img {
+    border-radius: 40%;
+  }
+   
